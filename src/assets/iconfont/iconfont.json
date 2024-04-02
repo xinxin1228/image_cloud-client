@@ -1,0 +1,16 @@
+{
+  "id": "4489747",
+  "name": "图片云盘",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "23193566",
+      "name": "主机网盘",
+      "font_class": "zhujiwangpan",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    }
+  ]
+}
